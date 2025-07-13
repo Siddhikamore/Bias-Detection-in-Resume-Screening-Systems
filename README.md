@@ -1,5 +1,5 @@
 # Bias-Detection-in-Resume-Screening-Systems
-
+This Repo contains Evaluating Algorithmic Bias in Recruitment: A Tri-Model Analysis
 
 ## Dataset
 [Job Applicant Dataset](https://www.kaggle.com/datasets/surendra365/recruitement-dataset)
