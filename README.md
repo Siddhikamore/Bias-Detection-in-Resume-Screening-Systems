@@ -2,4 +2,4 @@
 
 
 ## Dataset
-[Recruitment Dataset](https://www.kaggle.com/datasets/surendra365/recruitement-dataset)
+[Job Applicant Dataset](https://www.kaggle.com/datasets/surendra365/recruitement-dataset)
